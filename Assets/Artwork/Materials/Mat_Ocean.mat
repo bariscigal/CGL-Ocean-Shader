@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mat_Ocean
+  m_Shader: {fileID: -6465566751694194690, guid: 2356dd3b83ac14e879d285d9317959c1,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_75F1E05E:
+        m_Texture: {fileID: 8900000, guid: 1cde0e200e792cb4491204276a656490, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2432BEC4:
+        m_Texture: {fileID: 2800000, guid: 61efa274e7f084fbf8150e2dcaf63455, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_339F1620:
+        m_Texture: {fileID: 2800000, guid: c28203e1513fc438baebec048ebae901, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_6E2EAD10:
+        m_Texture: {fileID: 2800000, guid: e3b45074789db4c2dbf2fefbfb47629e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7C279905:
+        m_Texture: {fileID: 2800000, guid: 80d600b86b3ac4deb9151092e39b4eb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_24D5CD40_Texture_0:
+        m_Texture: {fileID: 2800000, guid: 61efa274e7f084fbf8150e2dcaf63455, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_6892A5DC_Texture_0:
+        m_Texture: {fileID: 2800000, guid: c28203e1513fc438baebec048ebae901, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_80D92DE7_Texture_0:
+        m_Texture: {fileID: 2800000, guid: 4452d473751e0406086db73638effbc2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_DFCF6B4D_Texture_0:
+        m_Texture: {fileID: 2800000, guid: c28203e1513fc438baebec048ebae901, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_231AEB5_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7b486d613085b4e76a5ceb4045788cd0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2E38F4D8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f591c75cf4a5e4f61bea0b5813ff4e7d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4035800E_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e3b45074789db4c2dbf2fefbfb47629e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_B50549CB_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7b486d613085b4e76a5ceb4045788cd0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_F9359DC0_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7b486d613085b4e76a5ceb4045788cd0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_CAAF5185_Out_0:
+        m_Texture: {fileID: 2800000, guid: 61efa274e7f084fbf8150e2dcaf63455, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - SmoothnessVal: 0.635
+    - SpecPower: 0.173
+    - TranspAdd: -0.066
+    - Vector1_101C7E67: -1.72
+    - Vector1_55D083EB: 0.22
+    - Vector1_6633CF45: -0.483
+    - Vector1_692D2615: 1.61
+    - Vector1_7C8463F2: 29
+    - Vector1_83D013F8: 0.653
+    - Vector1_9BE39D5F: -0.64
+    - Vector1_B0156E88: -2.58
+    - Vector1_B4B7F020: 1
+    - Vector1_C655349B: -1.92
+    - Vector1_F65B2688: 0.73
+    - _Depth: 0.246
+    - _Strength: 1.99
+    - _offset: 1.846
+    - _offset_1: 0.088
+    - deltaSpeed: 2.3
+    - deltaSpeed_1: 2
+    m_Colors:
+    - ColorDeep: {r: 0, g: 0.41708043, b: 0.6792453, a: 0.8509804}
+    - ColorShallow: {r: 0.4292453, g: 0.98378545, b: 1, a: 0.6509804}
+    - Color_AA59CCCE: {r: 0, g: 0.023570796, b: 0.29245278, a: 0.87058824}
+    - Vector2_D01D372: {r: 3, g: 3, b: 0, a: 0}

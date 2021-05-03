@@ -7,3 +7,5 @@ A lightweight sea and beach artwork and shader demo project
 Using URP rendering and targeted for Android devices.
 The demo runs with high fps on Samsung s7 Edge.
 
+You can see the outcome and some details here:
+https://www.artstation.com/artwork/mDoB98

@@ -1,4 +1,4 @@
-# iLoveSea Demo Project (Unity Urp)
+# Ocean Shader Demo Project (Unity Urp)
 
 ![alt text](https://cdna.artstation.com/p/assets/images/images/037/022/720/large/baris-cigal-lovesea-thmb.jpg)
 
